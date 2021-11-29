@@ -24,7 +24,7 @@ Backend
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Maven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=Junit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 
 
 
