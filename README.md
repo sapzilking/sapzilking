@@ -36,6 +36,8 @@ DevOps
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugil)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
