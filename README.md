@@ -36,8 +36,9 @@ DevOps
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 
 
-[![sugil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugils&show_icons=true&theme=merko)](https://github.com/sugils/spring-boot-with-JPA)
-[![Readme Card](https://github.com/sugils/spring-boot-with-JPA/api/pin/?username=sugils&repo=github-readme-stats)](https://github.com/sugils/spring-boot-with-JPA)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugils)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
