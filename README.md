@@ -21,6 +21,11 @@ Backend
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Junit-25A162?style=flat-square&logo=Junit&logoColor=white"/>
+
+
 
 DevOps
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
