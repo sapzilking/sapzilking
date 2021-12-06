@@ -11,8 +11,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=D3CAE7&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+sugil.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
  <br><br><br>
-
- <div align=left style="float: left;">
+ 
+ <div align=left>
  🙉 Skills 🙈
 Backend</br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -31,10 +31,9 @@ DevOps</br>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 </div>
 
-
-
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mnetkm)](https://solved.ac/mnetkm/)
- 
+<!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mnetkm)](https://solved.ac/mnetkm/)
+ -->
  
 <br><br>
 
